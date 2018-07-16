@@ -54,3 +54,4 @@ It will be completed in the future.
 
 CopyClipboard is licensed under the [GNU General Public License](https://github.com/thomas-carlson/CopyClipboardJs/blob/master/LICENSE).
 
+
